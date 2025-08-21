@@ -1,7 +1,10 @@
 {
   "dependencies": ["."],
   "graphs": {
-    "agent": "./src/agent/m1_l2.py:graph"
+    "m1_l2": "./src/agent/m1_l2.py:graph",
+    "m1_l4": "./src/agent/m1_l4.py:graph",
+    "m1_l5": "./src/agent/m1_l5.py:graph",
+    "m1_l6": "./src/agent/m1_l6.py:react_graph"
   },
   "env": ".env",
   "image_distro": "wolfi"
